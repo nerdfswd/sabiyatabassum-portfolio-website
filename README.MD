@@ -1,10 +1,28 @@
-# Simple Portfolio Application - MAde with pure HTML and CSS.
+### Minimalistic Portfolio
 
-This is a simple portfolio application. Here, HTML and CSS are used.
+## Minimalistic Portfolio using HTML, CSS, JavaScript
 
-Here, blogs are to be updated. I had added dummy blogs here.
-
-I will add blogs after I publish in HashNode. (Sure..)
+This is a fully responsive portfolio application made using HTML, CSS, JS.
 
 
-Okay!!! Portfolio making task is completed.
+### Output:
+Live Demo:  https://sabiyatabassum.netlify.app/
+
+<br/>
+
+<img src="" alt="Page">
+
+<br/>
+
+<br/>
+
+<img src="" alt="Page">
+
+<br/>
+
+
+
+##### **My Social Links**
+
+- **Portfolio**  - [PortfolioLink](https://sabiya.netlify.app/)
+- **Twitter** - [TwitterLink](https://twitter.com/nerd_fswd)
