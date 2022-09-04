@@ -10,13 +10,13 @@ Live Demo:  https://sabiyatabassum.netlify.app/
 
 <br/>
 
-<img src="" alt="Page">
+<img src="https://github.com/nerdfswd/sabiyatabassum-portfolio-website/tree/main/images/img1.png" alt="Page">
 
 <br/>
 
 <br/>
 
-<img src="" alt="Page">
+<img src="https://github.com/nerdfswd/sabiyatabassum-portfolio-website/tree/main/images/img2.png" alt="Page">
 
 <br/>
 
